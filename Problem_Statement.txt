@@ -1,0 +1,8 @@
+
+Part 1:
+ 
+Api : http://www.androidbegin.com/tutorial/jsonparsetutorial.txt
+Fetch of images should be done through RxJava and Retrofit
+Display of images should use Glide or Picasso or Fresco libraries.
+Make use of a recyclerview to display these images.
+The picture should become fullscreen on click and then when pressing back button, will go back to multiple images view.
